@@ -1,0 +1,49 @@
+body{  
+    background-color: rgb(253, 242, 220);
+}
+
+#music_title{
+    text-align: center;
+    color: rgb(114, 82, 19);
+    font-weight: bolder;
+}
+
+#music_genres{
+    text-align: center;
+    color: brown;
+    position: relative;
+    top:10px;
+}
+
+#music_type{
+    color: rgb(102, 74, 18);
+}
+
+#music_discrible{
+    position:absolute;
+    top: 330px;
+    left: 310px;
+    right: 300px;
+    line-height: 30px;;
+}
+
+#music_picture{
+    position: absolute;
+    left: 310px;
+    top:550px;
+    
+}
+
+#music_choice{
+    position: absolute;
+    left: 50px;
+    top:300px;
+}
+
+#music_type{
+    position: absolute;
+    left: 30px;
+    top:350px;
+}
+
+

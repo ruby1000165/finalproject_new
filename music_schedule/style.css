@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color:lightyellow;
+}
+
+table{
+    width: 60%;
+    margin: auto;
+    font-size: 1.5em;
+    border: 1px groove black;
+
+}
+
+td{
+    border-top: 1.5px dotted blue;
+    
+}
+
+th{
+    background-color: rgb(217, 247, 158);
+    
+}
+
+#schedulename{
+    color: rgb(144, 196, 40);
+}
+

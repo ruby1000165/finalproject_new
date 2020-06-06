@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: rgb(200, 233, 233);
+}
+
+canvas{
+    border:1px solid black;
+    background-image: url(images/background1.jpg);
+    
+}
+
+#talkBox{
+    height:20px;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 40px;;
+    
+}
+
+#rpg_name{
+    color: green;
+    font-size: 50px;
+
+}
+
+#rpg_point{
+    font-size: 22px;;
+    color: rgb(161, 4, 4);
+}

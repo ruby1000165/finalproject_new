@@ -1,0 +1,49 @@
+body{  
+    background-color: rgb(217, 232, 236);
+}
+
+#music_songname{
+    height:32px;
+    position: absolute;
+    top:230px;
+    left:320px;
+    
+}
+
+#music_playername{
+    color: rgb(55, 77, 199);
+    font-size: 7ex;
+    position: absolute;
+    top:150px;
+    left:600px;
+
+}
+
+#player{
+    width: 700px;
+    height: 420px;
+    position: absolute;
+    top:300px;
+    left:400px;
+}
+
+#playButton{
+    width: 80px;
+    height: 30px;
+    font-size: 18px;
+    position: absolute;
+    top:730px;
+    left:730px;
+}
+
+#player_introduction{
+    position: absolute;
+    top:300px;
+    left:1100px;
+    line-height: 25px;
+}
+
+#music_songname{
+    text-align: center;
+    color: midnightblue;
+}

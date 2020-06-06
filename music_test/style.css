@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: rgb(250, 233, 233);
+}
+
+#test_title{
+    color: rgba(72, 6, 134, 0.986);
+    font-size: 40px;
+}
